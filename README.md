@@ -25,17 +25,13 @@
     src="https://img.shields.io/badge/-YouTube-c4302b?style=flat&logo=youtube&logoColor=white" alt="Facebook"></a>
 </p>
 
-### 🛠 &nbsp;Technologies that I work with
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![ReactJs](https://img.shields.io/badge/-ReactJs-000000?style=flat&logo=react)
+### 🛠 Technologies that I work with
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelkashef15&hide_progress=true) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelkashef15&layout=compact)
-<br>
 <a href="https://komarev.com/ghpvc/?username=Osama-dev20&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=Osama-dev20&style=for-the-badge">
 </a>
